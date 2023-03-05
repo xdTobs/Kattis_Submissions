@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="46f56de1-7866-4484-9354-c7bd363c6c68" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2021_2/Birthday_Memorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2021_2/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2021_2/Ninety_Nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2021_2/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/DelimiterSoup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/FizzBuzzHiring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/NSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/ReverseFizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/SortTwoInts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_2/BasicProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_2/GhostLeg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_2/MergeStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_2/Metronome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_2/SmallestCalculatedValue.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LY9OmGIxdrRpHxIL3jMm5rxxju" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Documents/Shared Documents/02326 Algorithms/CodeJudge Algorithms&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.DelimiterSoup">
+    <configuration name="DelimiterSoup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2023_1.DelimiterSoup" />
+      <module name="Kattis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_2023_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2023_1.FizzBuzz" />
+      <module name="Kattis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_2023_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FizzBuzzHiring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2023_1.FizzBuzzHiring" />
+      <module name="Kattis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_2023_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ninety_Nine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2021_2.Ninety_Nine" />
+      <module name="Kattis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_2021_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseFizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_2023_1.ReverseFizzBuzz" />
+      <module name="Kattis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_2023_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReverseFizzBuzz" />
+        <item itemvalue="Application.FizzBuzzHiring" />
+        <item itemvalue="Application.DelimiterSoup" />
+        <item itemvalue="Application.FizzBuzz" />
+        <item itemvalue="Application.Ninety_Nine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46f56de1-7866-4484-9354-c7bd363c6c68" name="Changes" comment="" />
+      <created>1676037124008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676037124008</updated>
+      <workItem from="1676037125834" duration="10435000" />
+      <workItem from="1676965160587" duration="171000" />
+      <workItem from="1677251692671" duration="6781000" />
+      <workItem from="1677502523583" duration="1523000" />
+      <workItem from="1678053266180" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_2023_1/DelimiterSoup.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_2023_2/GhostLeg.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_2023_2/SmallestCalculatedValue.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="number == 1" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/_2023_2/SmallestCalculatedValue.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
