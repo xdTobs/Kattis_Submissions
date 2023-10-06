@@ -5,29 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46f56de1-7866-4484-9354-c7bd363c6c68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2021_2/Birthday_Memorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2021_2/Homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2021_2/Ninety_Nine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2021_2/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/DelimiterSoup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/FizzBuzzHiring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/NSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/ReverseFizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/SortTwoInts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_1/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_2/BasicProgramming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_2/GhostLeg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_2/MergeStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_2/Metronome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_2/SmallestCalculatedValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2016_prep/Artwork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_3/MazeMan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_8/DNA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_8/DNATwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_8/Echo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_8/Grants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_8/Knights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_8/Reverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/_2023_8/Travel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +35,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2LY9OmGIxdrRpHxIL3jMm5rxxju" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -59,13 +50,19 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Documents/Shared Documents/02326 Algorithms/CodeJudge Algorithms&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tobia/IdeaProjects/Kattis_Submissions&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DelimiterSoup">
+  <component name="RunManager">
     <configuration name="DelimiterSoup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_2023_1.DelimiterSoup" />
       <module name="Kattis" />
@@ -133,9 +130,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DelimiterSoup" />
         <item itemvalue="Application.ReverseFizzBuzz" />
         <item itemvalue="Application.FizzBuzzHiring" />
-        <item itemvalue="Application.DelimiterSoup" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.Ninety_Nine" />
       </list>
@@ -154,6 +151,9 @@
       <workItem from="1677251692671" duration="6781000" />
       <workItem from="1677502523583" duration="1523000" />
       <workItem from="1678053266180" duration="599000" />
+      <workItem from="1679670050070" duration="6711000" />
+      <workItem from="1696345445438" duration="7580000" />
+      <workItem from="1696601461271" duration="8326000" />
     </task>
     <servers />
   </component>
@@ -185,15 +185,31 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/_2023_2/SmallestCalculatedValue.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <condition expression="number == 1" language="JAVA" />
           <url>file://$PROJECT_DIR$/src/main/java/_2023_2/SmallestCalculatedValue.java</url>
           <line>36</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="dfsStack.peek().y==1&amp;&amp;dfsStack.peek().x==7" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/main/java/_2023_3/MazeMan.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_2023_3/MazeMan.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_2016_prep/Artwork.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/_2023_8/Knights.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
